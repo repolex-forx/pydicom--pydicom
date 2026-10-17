@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydicom/pydicom/commit/a6374203fe842a2936647cf75ed749227a384ccb",
       "git:hexsha": "a6374203fe842a2936647cf75ed749227a384ccb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T06:11:59.539775+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydicom/pydicom/commit/78b636cb778edca8d13326c562ee5091137ab9f0",
